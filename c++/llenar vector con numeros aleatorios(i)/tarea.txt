@@ -1,0 +1,7 @@
+llenar una vector con numeros aleatorios:
+
+1)crar un menu quue permita:
+-ingresar un numero aleatorio al vector
+-guardar el numero generado
+-borrar un numero del vector
+-salir del programa

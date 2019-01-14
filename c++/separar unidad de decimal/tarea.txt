@@ -1,0 +1,1 @@
+dividir un numero y separar el resultado de la divicion en unidades y decimales

@@ -1,0 +1,5 @@
+-llenar un vector con numeros aleatorios.
+-eliminar uno de los numeros como pila.
+-eliminar uno de los numeros como cola.
+-salir del programa.
+
